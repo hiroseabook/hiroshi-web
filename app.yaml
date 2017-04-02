@@ -2,5 +2,22 @@ runtime: php55
 api_version: 1
 
 handlers:
-- url: /.*
-  script: helloworld.php
+- url: /
+  static_files: index.html
+  upload: index.html
+
+- url: /index.html
+  static_files: index.html
+  upload: index.html
+  
+- url: /css
+  static_dir: css
+  
+- url: /fonts
+  static_dir: fonts
+
+- url: /js
+  static_dir: js
+
+- url: /img
+  static_dir: img

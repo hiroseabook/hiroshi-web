@@ -1,4 +1,5 @@
-appengine-php-guestbook
+# 長山弘.jp
+
 ================================
 
-Guestbook demo for Google App Engine that uses PHP
+Google App Engine WebSite
