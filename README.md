@@ -1,5 +1,6 @@
 # 長山弘.jp
 
+[公開サイトはこちら](http://長山弘.jp)
 ================================
 
-Google App Engine WebSite
+__Google App Engine__を用いて運用しています。
